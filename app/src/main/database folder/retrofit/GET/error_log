@@ -1,0 +1,2 @@
+[21-Feb-2019 09:14:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cseiiucc/public_html/android.cseiiuc.cf/retrofit/GET/connect.php on line 8
+[21-Feb-2019 09:14:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cseiiucc/public_html/android.cseiiuc.cf/retrofit/GET/connect.php on line 8
